@@ -1,0 +1,19 @@
+{
+  "name": "functest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0",
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+    "wdio-spec-reporter": "^0.1.2",
+    "webdriverio": "^4.8.0"
+  },
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "Ana Milesi",
+  "license": "ISC"
+}
