@@ -28,7 +28,7 @@ It should yield the following results:
 <img src="/images/resultsFail.png">
 
 ```
-The third test will fail because the error.
+The third test will fail due the error.
 
 Once the error is fixed, it will pass:
 ```
